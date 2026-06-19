@@ -1,0 +1,13 @@
+{
+  "name": "tachles-gym-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static high-converting website for Tachles Gym Jerusalem.",
+  "scripts": {
+    "start": "python3 -m http.server 5173",
+    "dev": "python3 -m http.server 5173",
+    "deploy:netlify": "netlify deploy --prod --dir=."
+  },
+  "keywords": ["gym", "jerusalem", "rtl", "seo", "local-business"],
+  "license": "UNLICENSED"
+}

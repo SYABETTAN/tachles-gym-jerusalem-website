@@ -1,0 +1,14 @@
+{
+  "name": "תכלס Gym",
+  "short_name": "Tachles Gym",
+  "description": "חדר כושר לגברים בירושלים",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080a0d",
+  "theme_color": "#0b0d10",
+  "lang": "he-IL",
+  "dir": "rtl",
+  "icons": [
+    { "src": "/assets/favicon.svg", "sizes": "64x64", "type": "image/svg+xml" }
+  ]
+}
